@@ -12,7 +12,7 @@ customer attrition, also known as customer churn.
 
 **Report:**
 
-*From data exploration:*
+**From data exploration:**
 
 1.Most of the customers have churned after being inactive for 2 or 3 months.So, target on the people who are inactive for 2-3 months. As they're likely to be attrited. 
 
