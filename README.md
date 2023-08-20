@@ -32,7 +32,7 @@ Age: 40-55
 
 Income : Less than $40K
 
-Blue card holders
+Blue cardholders
 
 **From Clustering:**
 
@@ -44,5 +44,5 @@ KNN seems to be good as it has high accuracy but it is misleading due to the cla
 
 **From Evaluation:**
 
-Accuracy, Balnaced Accuracy and AUC values are good. Intolerable error from the confusion matrix is that 151 Attrited customers were wrongly predicted as Existing customers. 
+Accuracy, Balanced Accuracy and AUC values are good. An intolerable error from the confusion matrix is that 151 Attrited customers were wrongly predicted as Existing customers. 
  
